@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is A0D5-5B69
-
- Directory of C:\Users\0B9041649\Downloads\MyProject
-
-2022-10-20  07:22 PM    <DIR>          .
-2022-10-20  07:22 PM    <DIR>          ..
-2022-10-20  07:22 PM               125 test1.txt
-               1 File(s)            125 bytes
-               2 Dir(s)  174,903,709,696 bytes free
+change 1
