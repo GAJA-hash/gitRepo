@@ -1,0 +1,8 @@
+-git init
+-git status
+-git add
+-git commit -m "...."
+-git remote add origin https://github.com/GAJA-hash/gitRepo.git
+-git push -u origin master
+-git log
+-git help
